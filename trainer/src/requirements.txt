@@ -4,3 +4,4 @@ tfcoreml==0.3.0
 tensorflowjs==0.8.0
 tensorflow-hub==0.3.0
 h5py==2.8.0
+tensorflow>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
